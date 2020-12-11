@@ -19,6 +19,9 @@ Assignment submissions for [6.881 - Robotic Manipulation Fall 2020](http://manip
 
 * Robot Painter: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsidn98/Robotic-Manipulation-6.881/blob/main/psets/Pset%201/robot_painter.ipynb)
 
+The final robot painter:
+![robo_painter](https://media.giphy.com/media/lvv0Ous2Cbe00QaqVh/giphy.gif)
+
 ## Pset 2
 * Iterative Closest Point on Stanford Bunny: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nsidn98/Robotic-Manipulation-6.881/blob/main/psets/Pset%202/bunny_icp.ipynb)
 
